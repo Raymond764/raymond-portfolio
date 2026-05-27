@@ -215,7 +215,7 @@ function Hero() {
               WebkitTextFillColor: "transparent",
             }}
           >
-            Raymond Tony
+            Raymond
             <br />
             Baraket
           </h1>
