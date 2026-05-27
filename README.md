@@ -1,8 +1,6 @@
 
   # Raymond Baraket Portfolio
 
-  This is a code bundle for Portfolio design request. The original project is available at https://www.figma.com/design/qgRCjyq9yjNVH2Z0KSi7By/Portfolio-design-request.
-
   ## Running the code
 
   Run `npm i` to install the dependencies.
