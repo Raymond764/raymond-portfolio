@@ -81,7 +81,7 @@ function Navbar() {
             WebkitTextFillColor: "transparent",
           }}
         >
-          RTB
+          RB
         </button>
 
         <ul className="hidden md:flex items-center gap-1">
@@ -1016,7 +1016,7 @@ function Footer() {
                 WebkitTextFillColor: "transparent",
               }}
             >
-              Raymond Tony Baraket
+              Raymond Baraket
             </div>
 
             <p className="text-[#7070a0] text-sm font-['Inter']">Computer Science Graduate · Full-Stack Developer</p>
@@ -1066,7 +1066,7 @@ function Footer() {
 
         <div className="pt-8 border-t border-[rgba(124,106,247,0.08)] flex flex-col sm:flex-row items-center justify-between gap-3">
           <p className="text-[#7070a0] text-xs font-['Inter']">
-            © {new Date().getFullYear()} Raymond Tony Baraket. All rights reserved.
+            © {new Date().getFullYear()} Raymond  Baraket. All rights reserved.
           </p>
 
           <p className="text-[#7070a0] text-xs font-['Inter']">Built with React · TypeScript · Tailwind CSS</p>
